@@ -38,5 +38,5 @@ steps:
     azureSubscription: 'Visual Studio Enterprise Subscription – MPN(233f533c-1d3f-4ec4-9c49-c7d27d1b3b72)'
     appType: 'webApp'
     WebAppName: 'sample-dotnetcore-app'
-    VirtualApplication: 'sample-app'
+    VirtualApplication: 'sample-dotnetcore-app'
     packageForLinux: '$(build.artifactStagingDirectory)\WebApp.zip'
