@@ -16,7 +16,7 @@ For all samples to set up GitHub workflows, see [Create your first workflow](htt
 
 ## Pre-requisites
 * Create a new Web App in Azure Portal with runtime stack as .NETCore and OS as Linux/Windows
-* Copy Publish Profile Settings of the app
+* Copy Publish Profile Settings of the app.
 
 ### Create an ASP.NET App Service in Azure
 
